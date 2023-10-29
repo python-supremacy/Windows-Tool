@@ -1,0 +1,6 @@
+- - - - REQUIREMENTS - - - - :
+
+- Computer
+- Windows 7 and newer
+
+That's all.
