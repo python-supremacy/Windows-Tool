@@ -1,6 +1,3 @@
-- - - - REQUIREMENTS - - - - :
-
-- Computer
-- Windows 7 and newer
-
-That's all.
+- - - - - REQUIREMENTS - - - - -
+- Basic Windows PC
+- Windows 7/8/10
